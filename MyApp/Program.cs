@@ -14,6 +14,7 @@ class Program
 
     {
         Console.WriteLine($"Hello, {name}!");
+        Console.WriteLine("Hello from feature branch");
     }
 
 }
